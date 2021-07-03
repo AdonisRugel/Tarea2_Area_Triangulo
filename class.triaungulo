@@ -8,8 +8,7 @@ class Triangulo{
     function Triangulo(){
         // es la funcion del constructor 
         $this->altura= 0; // atributos
-        $this->base = 0;
-        
+        $this->base = 0;  
     }
     public function tabla(){
         $html = '
